@@ -2,3 +2,29 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(23, 62, 96);
+}
+
+#myButton {
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+}
+
+#myLabel1,
+#myLabel2,
+#myLabel3 {
+  font-size: 3em;
+  color: white;
+  text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.boxes {
+  border: 2px solid wheat;
+;
+}
