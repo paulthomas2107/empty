@@ -21,10 +21,4 @@ body {
 #myLabel3 {
   font-size: 3em;
   color: white;
-  text-shadow: 2px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
-}
-
-.boxes {
-  border: 2px solid wheat;
-;
 }
